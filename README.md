@@ -6,9 +6,9 @@ I'm Harrison, a student at Brigham Young University-Idaho interested in computer
 
 ## About Me
 
-- I'm currently learning C#
-- I'm looking for an internship
-- Ask me about my print server project
+- I'm currently learning C# and Agile development methods!
+- I'm looking for an internship!
+- Ask me about my print server project!
 
 ## Technologies and Tools
 
